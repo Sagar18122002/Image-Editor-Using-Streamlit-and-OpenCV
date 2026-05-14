@@ -132,10 +132,6 @@ Through this project, I learned:
 
 **Dandoti Sagar**
 
-Final Year B.Tech - Electronics and Communication Engineering (ECE)
+B.Tech - Electronics and Communication Engineering (ECE)
 
 ---
-
-# 📄 License
-
-This project is developed for educational purposes.
